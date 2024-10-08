@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2c3bd200-d079-4539-8b0f-9534993c1a75" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="2c3bd200-d079-4539-8b0f-9534993c1a75" name="Changes" comment="Первоначальный коммит">
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +11,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2n92iAQblkL1w3NBtpHvkmUD047" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -60,8 +63,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728371095883</updated>
-      <workItem from="1728371097906" duration="343000" />
+      <workItem from="1728371097906" duration="677000" />
     </task>
+    <task id="LOCAL-00001" summary="Первоначальный коммит">
+      <created>1728371687843</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728371687843</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -77,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первоначальный коммит" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первоначальный коммит" />
   </component>
 </project>
